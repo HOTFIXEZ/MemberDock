@@ -2,7 +2,7 @@ MacOS dock style members list that expands when mouse gets close. Quick info and
 
 Some credit has to go to these guys for inspiring me to re-make this plugin made with the help of Grok build mode/fast mode.
 
-Latest version before mine fixed by:
+Latest version before mine by:
 https://github.com/munkaylol
 
 Originally Made By Beard Design

@@ -5,7 +5,7 @@
  * @version 3.0
  * @authorId 709779118568505424
  * @donate https://paypal.me/ABlenkharn
- * @source 
+ * @source https://github.com/HOTFIXEZ/MemberDock/blob/main/MemberDockv(3.0).plugin.js
  */
 
 module.exports = class MemberDock {
